@@ -29,6 +29,6 @@ and do
  *Example of bad router positioning. The WiFi signal is trapped in one room and can barely escape*.
 
  ## Authors
-The application was designed by Michal Szachniewicz (me) and Anna Klimiuk as university project. 
+The application was designed by Michal Szachniewicz ([szacho](https://github.com/szacho)) and Anna Klimiuk ([Stardust87](https://github.com/Stardust87)) as university project. 
  ## License
 Wifi-visualizer is released under MIT License. 
